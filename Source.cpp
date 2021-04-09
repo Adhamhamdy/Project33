@@ -72,7 +72,7 @@ int main()
 	s.push('a');
 	s.push('m');
 	s.display();
-	char x='c';
+	char x = 'c';
 	s.getTop(x);
 	cout << x << endl;
 }
